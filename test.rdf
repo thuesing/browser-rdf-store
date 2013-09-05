@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:tbx="http://beta.liaise-toolbox.eu/"
+         xmlns:sioc="http://rdfs.org/sioc/ns#"
+         xmlns:dc="http://purl.org/dc/terms/"
+         xmlns:foaf="http://xmlns.com/foaf/0.1/">
+  <tbx:model rdf:about="http://beta.liaise-toolbox.eu/e3me">
+    <rdf:type rdf:resource="http://rdfs.org/sioc/ns#Item"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <sioc:has_creator rdf:resource="tbx:user/443"/>
+    <dc:title>E3ME</dc:title>
+    <dc:date>2013-02-07 16:24:32</dc:date>
+    <dc:created>2013-02-07 16:24:32</dc:created>
+    <foaf:homepage>http://www.e3me.com/  http://www.camecon.com/</foaf:homepage>
+    <tbx:field_acronym>E3ME</tbx:field_acronym>
+    <tbx:field_countries>OCEANIA</tbx:field_countries>
+    <tbx:field_countries>Australia</tbx:field_countries>
+    <tbx:field_countries>New Zealand</tbx:field_countries>
+    <tbx:field_liaise_ownership>yes</tbx:field_liaise_ownership>
+    <tbx:field_policy_instrument>Prescriptive regulatory actions</tbx:field_policy_instrument>
+    <tbx:field_economic_impacts>Macroeconomic environment</tbx:field_economic_impacts>
+    <tbx:field_economic_sectors>Activities of households as employers, undifferentiated goods - and services - producing activities of households for own use</tbx:field_economic_sectors>
+    <tbx:field_time_horizon>Long-term ( beyond 10 years)</tbx:field_time_horizon>
+  </tbx:model>
+</rdf:RDF>
